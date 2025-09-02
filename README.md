@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 Passionate about software and hardware dev
-- 🌱 Currently learning python, c++, html, css, javascript, c
+- 🌱 Currently learning Python, C++, HTML, CSS, JavaScript, C
 <!--
 - 🚀 Working on [your main project(s) or goal]  
 
